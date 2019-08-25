@@ -7,13 +7,7 @@ import java.util.Iterator;
 
 
 /**
- * Sequential Tree Representation implementation for the {@link BSPTree} interface.
- * <p>
- * Your task is to complete the implementation of this class.
- * You may add methods, but ensure your modified class compiles and runs.
- *
- * @author Jeffrey Chan, 2016.
- * @author Yongli Ren, 2019.
+ * Sequential Tree Representation implementation
  */
 public class SequentialRepresentation<T> implements BSPTree<T> {
 
